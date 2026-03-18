@@ -2301,4 +2301,5 @@
 0.0.0.0 www.psichologyanswers.com
 0.0.0.0 www.umatechnology.org
 
-
+# [Manuell]
+0.0.0.0 gemini.google.com
