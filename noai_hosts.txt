@@ -2302,4 +2302,7 @@
 0.0.0.0 www.umatechnology.org
 
 0.0.0.0 gemini.google.com
+0.0.0.0 *.gemini.google.com*
 0.0.0.0 www.gemini.google.com
+0.0.0.0 www.youtube.com
+0.0.0.0 www.autohero.com
